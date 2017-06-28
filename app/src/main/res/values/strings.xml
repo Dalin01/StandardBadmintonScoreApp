@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Standard Badminton Score App</string>
+    <string name="singles">Start</string>
+    <string name="selectGame">Singles Only!</string>
+    <string name="info">Enter Details</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender:</string>
+    <string name="start">Start</string>
+    <string name="play1"><u>Player 1</u></string>
+</resources>
